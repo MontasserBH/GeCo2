@@ -6,6 +6,8 @@ import org.junit.Test;
 
 import java.util.List;
 
+import static org.junit.Assert.*;
+
 /**
  * Created by MONTASSER on 04/12/2016.
  */
